@@ -18,7 +18,7 @@ A lightweight and fully containerized **YOLOv8 segmentation-based classifier** t
 ---
 
 ##  Tech Stack
--  **YOLOv8-X Segmentation** – High-accuracy image segmentation  
+-  **YOLOv8-m Segmentation** – High-accuracy image segmentation  
 -  **FastAPI** – Backend API for model prediction  
 -  **Streamlit** – Interactive frontend UI  
 -  **Docker** + **Docker Compose** – Easy containerization & service orchestration  
@@ -68,8 +68,21 @@ To get the best predictions:
 
 [ Download from Google Drive](https://drive.google.com/file/d/1-tHzIK7pQUkJzNjdVsTYUydDsf7DIXoW/view?usp=sharing)
 
----
+##  Data File
 
+ Download the data and place it in the root as:  
+`dates_fruit_data`
+
+[ Download from Google Drive](https://drive.google.com/drive/folders/1yw_4GmAsY2ZUyVHW510KkmagnxppgD3B?usp=sharing)
+
+---
+## Acknowledgment
+- Abdulrahman almejna
+- Khalid Alshahrani
+- Ahmed Almutairi
+- Saud Rawdhan
+
+---
 ##  Running the Project (Docker)
 
 ```bash
@@ -84,3 +97,5 @@ docker compose up --build
 •	 Frontend: http://localhost:8501
 •	 Backend: http://localhost:8000/docs
 # saudi-dates-multimodel
+
+
