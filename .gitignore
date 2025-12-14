@@ -28,4 +28,4 @@ date_fruit_model.pt
 *.pt
 venv/
 __pycache__/
-.env
+.env-example
