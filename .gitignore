@@ -1,5 +1,5 @@
 # Virtual environment
-venv/
+.venv/
 
 # Python cache files
 __pycache__/
@@ -25,5 +25,4 @@ __pycache__/
 
 # Specific ignores
 date_fruit_model.pt
-.venv/
 .env-example
