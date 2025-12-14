@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings (if you use it)
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Model file (large, hosted externally)
+*.pt
+
+# .env file containing environment variables
+.env
+
+# Specific ignores
+date_fruit_model.pt
+*.pt
+venv/
+__pycache__/
+.env
