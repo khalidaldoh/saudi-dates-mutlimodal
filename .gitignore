@@ -26,3 +26,4 @@ __pycache__/
 # Specific ignores
 date_fruit_model.pt
 .env-example
+.idea
