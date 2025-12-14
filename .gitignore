@@ -25,7 +25,5 @@ __pycache__/
 
 # Specific ignores
 date_fruit_model.pt
-*.pt
-venv/
-__pycache__/
+.venv/
 .env-example
